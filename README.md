@@ -1,2 +1,2 @@
-### React.js Course
-# @ Mathematic , KMITL
+# React.js Course
+## Mathematic , KMITL
