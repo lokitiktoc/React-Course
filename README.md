@@ -3,8 +3,9 @@
 
 ![920544_7d1f](https://user-images.githubusercontent.com/25294734/34830048-42bcf876-f715-11e7-91ce-6f360a6ae9a5.jpg)
 
+Slide url : https://github.com/Kzis/React-Course/tree/master/Presentation
+
 - [x] WEEK1 : Introduction & Version control(Git)
-  - Slide url : 
   - Developer is ?
   - Carrer path
   - Programming top languages
