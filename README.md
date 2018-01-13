@@ -5,7 +5,7 @@
 
 Slide url : https://github.com/Kzis/React-Course/tree/master/Presentation
 
-- [x] WEEK1 : Introduction & Version control(Git)
+- [ ] WEEK1 : Introduction & Version control(Git)
   - Developer is ?
   - Carrer path
   - Programming top languages
