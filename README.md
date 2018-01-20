@@ -32,7 +32,7 @@ Slide url : https://github.com/Kzis/React-Course/tree/master/Presentation
   - Conflict
   - Merge Commit
   
-- [ ] WEEK2 : HTML-CSS , Flexbox CSS
+- [x] WEEK2 : HTML-CSS(Flexbox,MediaQueries,Github Pages)
   - HTML is ?
   - HTML Page Structure
   - HTML Element
